@@ -1,8 +1,8 @@
 {
-	"name": "WiiShopChannelMusic",
+	"name": "UndertaleShopTheme",
 	"version_number": "1.0.0",
-	"website_url": "https://thunderstore.io/c/repo/p/FluxTeam/WiiShopChannelMusic",
-	"description": "Replaces the Store music with the Wii Shop Channel music",
+	"website_url": "",
+	"description": "Replaces the Store music with the Undertale Shop Theme",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"loaforc-loaforcsSoundAPI-2.0.6"
