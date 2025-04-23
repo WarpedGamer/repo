@@ -1,7 +1,7 @@
 {
 	"name": "UndertaleShopTheme",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/WarpedGamer/repo2/blob/main/replacer.json",
 	"description": "Replaces the Store music with the Undertale Shop Theme",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
